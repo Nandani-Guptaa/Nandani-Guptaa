@@ -21,7 +21,7 @@ I'm passionate about technology and continuously learning new skills. Currently,
 
 - [linkedin](https://www.linkedin.com/in/nandaniiguptaa)
 - [YouTube - KashuDebugs](https://www.youtube.com/@KashuDebugs)
-- [Gmail](gupta.nandani239@gmail.com)
+- [Gmail] - gupta.nandani239@gmail.com
 
 Feel free to check out my projects and connect with me!
 
