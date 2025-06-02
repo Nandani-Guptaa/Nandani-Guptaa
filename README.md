@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Nandani 👋
 
-<!--
-**Nandani-Guptaa/Nandani-Guptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring BTech CSE Student | 💻 Web Developer | Beginner in Open Source 
 
-Here are some ideas to get you started:
+I'm passionate about technology and continuously learning new skills. Currently, I'm focusing on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Frontend Development (HTML, CSS, JavaScript)
+- 🧠 Exploring AI/ML concepts/Open sources
+- 📈 Improving my public speaking and content creation abilities
+
+🔧 Technologies & Tools
+
+- HTML
+- CSS
+- javascript
+- Git
+- Github
+
+
+📫 Let's Connect
+
+- [linkedin](https://www.linkedin.com/in/nandaniiguptaa)
+- [YouTube - KashuDebugs](https://www.youtube.com/@KashuDebugs)
+- [Gmail](gupta.nandani239@gmail.com)
+
+Feel free to check out my projects and connect with me!
+
