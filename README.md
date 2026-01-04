@@ -1,6 +1,6 @@
 # Hi there, I'm Nandani 👋
 
-🎓 Aspiring BTech CSE Student | 💻 Web Developer | Beginner in Open Source 
+💻 Web Developer | Mentor @CodeSocial @EliteCoders @SWoC
 
 I'm passionate about technology and continuously learning new skills. Currently, I'm focusing on:
 
@@ -15,6 +15,7 @@ I'm passionate about technology and continuously learning new skills. Currently,
 - javascript
 - Git
 - Github
+- Python
 
 
 📫 Let's Connect
