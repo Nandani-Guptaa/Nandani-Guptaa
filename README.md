@@ -15,7 +15,7 @@ Backtesting and analyzing systematic trading strategies on EUR/USD (5-year histo
 - Exploring: Bollinger Bands confluence, SHAP-based feature importance, XGBoost signal modeling
 - **Stack:** Python, pandas, pandas-ta, yfinance, matplotlib | Google Colab
 
-### 🤖 VerifyAI — AI Background Verification Platform
+### 🤖 ZeroBGV — AI Background Verification Platform
 AI-powered background verification tool built at hackathon (reached finals as Team Lead)
 - Automated credential parsing and verification via LLM
 - **Stack:** Streamlit, Mistral AI API, Gmail SMTP, pdfplumber
